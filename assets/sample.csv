@@ -1,0 +1,28 @@
+title,prompts,words,model,temperature,top_p,frequency_penalty,presence_penalty
+"Write a paragraph","Write a paragraph on the given topic.",400,gpt-4,0.7,1,0,0
+"Add content","Add 2-3 more sentences to the given content without changing anything else.",200,gpt-4,0.7,1,0,0
+"Generate ideas","Generate 3-5 ideas in bullet points based on the given topic.",400,gpt-4,0.7,1,0,0
+"Write a blog post","Write a blog post with 3-5 headings and 3-5 paragraphs on the given topic.",700,gpt-4,0.7,1,0,0
+"Generate a TL;DR","Summarize the given content in 1-2 sentences.",400,gpt-4,0.7,1,0,0
+"Write a summary","Write a summary of the given content in 1-2 paragraphs.",400,gpt-4,0.7,1,0,0
+"Paraphrase","Paraphrase the given content without changing the meaning.",400,gpt-4,0.7,1,0,0
+"Generate a tagline","Generate a catchy tagline for the given content.",100,gpt-4,0.7,1,0,0
+"Explain to a 2-year-old","Explain the given content in simple language suitable for a 2-year-old child.",120,gpt-4,0.7,1,0,0
+"Write a quote","Generate a relevant quote based on the given content.",100,gpt-4,0.7,1,0,0
+"Correct grammar","Correct any grammatical errors in the given content.",400,gpt-4,0.7,1,0,0
+"Generate a topic outline for blog","Create a topic outline for a blog post on the given topic.",400,gpt-4,0.7,1,0,0
+"Change tone","Change the tone of the given content to be more formal.",400,gpt-4,0.7,1,0,0
+"Make it conversational","Rewrite the given content to make it more conversational and friendly.",400,gpt-4,0.7,1,0,0
+"Adjust voice","Adjust the voice of the given content to be more authoritative and confident.",400,gpt-4,0.7,1,0,0
+"Proofread","Proofread the given content and correct any spelling or grammatical errors.",400,gpt-4,0.7,1,0,0
+"Fix spelling errors","Fix all spelling errors in the given content without making any other changes.",400,gpt-4,0.7,1,0,0
+"Add two lines","Add two more lines to the given content without making any other changes.",200,gpt-4,0.7,1,0,0
+"Add one line","Add one more line to the given content without making any other changes.",200,gpt-4,0.7,1,0,0
+"Add a heading and a paragraph","Add one heading and one paragraph to the given content without making any other changes.",200,gpt-4,0.7,1,0,0
+"Generate a Call-to-Action","Create a compelling call-to-action for this content",100,gpt-4,0.7,1,0,0
+"Add Bullet Points","Add a list of bullet points to summarize this content",200,gpt-4,0.7,1,0,0
+"Expand on an Idea","Take one of the ideas in this content and expand on it",200,gpt-4,0.7,1,0,0
+"Improve Readability","Rewrite this content to improve its readability and flow",400,gpt-4,0.7,1,0,0
+"Add Examples","Add some examples to illustrate the points made in this content",200,gpt-4,0.7,1,0,0
+"Add a Subheading","Add a subheading to break up this content and make it easier to read",50,gpt-4,0.7,1,0,0
+"Create a Product Description","Write a description for this product that will entice users to buy it",300,gpt-4,0.7,1,0,0

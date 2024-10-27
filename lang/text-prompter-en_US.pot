@@ -1,0 +1,751 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Text Prompter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-02 14:37+0530\n"
+"PO-Revision-Date: 2023-01-21 17:58+0530\n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: Flipper Code <hello@flippercode.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: build/index.js:264 classes/wai-form.php:72 text-prompter.php:69
+#: text-prompter.php:400 text-prompter.php:401
+msgid "Text Prompter"
+msgstr ""
+
+#: build/index.js:266 modules/settings/views/test.php:89
+msgid "Choose Prompt"
+msgstr ""
+
+#: build/index.js:271
+msgid "Choose Element Type"
+msgstr ""
+
+#: build/index.js:282
+msgid "Choose Block Action"
+msgstr ""
+
+#: build/index.js:297
+msgid "Submit"
+msgstr ""
+
+#: classes/wai-form.php:17
+msgid "Subscribe to our mailing list"
+msgstr ""
+
+#: classes/wai-form.php:18
+msgid "Product Information"
+msgstr ""
+
+#: classes/wai-form.php:19
+msgid "Getting Started Guide"
+msgstr ""
+
+#: classes/wai-form.php:20
+msgid "View Docs"
+msgstr ""
+
+#: classes/wai-form.php:21
+msgid "Consult the user guide for guidance on getting started with the plugin."
+msgstr ""
+
+#: classes/wai-form.php:22
+msgid "Getting Started"
+msgstr ""
+
+#: classes/wai-form.php:23
+msgid "Installed version :"
+msgstr ""
+
+#: classes/wai-form.php:24
+msgid "Latest Version Available : "
+msgstr ""
+
+#: classes/wai-form.php:25
+msgid "Update Available"
+msgstr ""
+
+#: classes/wai-form.php:28
+msgid "Subscribe Now"
+msgstr ""
+
+#: classes/wai-form.php:29
+msgid ""
+"Stay informed about new product features and updates by receiving "
+"notifications about our new products and updates."
+msgstr ""
+
+#: classes/wai-form.php:30
+msgid ""
+"Rest assured that we will never share your email address with any third party."
+msgstr ""
+
+#: classes/wai-form.php:35
+msgid "Product Support"
+msgstr ""
+
+#: classes/wai-form.php:36 classes/wai-form.php:38
+msgid ""
+"Refer to the user guide for instructions on how to begin using the plugin."
+msgstr ""
+
+#: classes/wai-form.php:37
+msgid " Click Here"
+msgstr ""
+
+#: classes/wai-form.php:43 modules/overview/views/how.php:125
+msgid "Create Support Ticket"
+msgstr ""
+
+#: classes/wai-form.php:44
+msgid ""
+"If you have any questions or need assistance, please click the button below "
+"to create a support ticket. Our support team will be happy to assist you."
+msgstr ""
+
+#: classes/wai-form.php:47
+msgid "Create Ticket"
+msgstr ""
+
+#: classes/wai-form.php:56
+msgid "Hire Wordpress Expert"
+msgstr ""
+
+#: classes/wai-form.php:57
+msgid ""
+"Do you have a specific need that is not currently offered by this plugin?"
+msgstr ""
+
+#: classes/wai-form.php:58
+msgid ""
+"We can tailor this plugin to your specific needs. Click the button below to "
+"request a quote for customization."
+msgstr ""
+
+#: classes/wai-form.php:61
+msgid "Request a quotation"
+msgstr ""
+
+#: core/class.plugin.php:127
+#, php-format
+msgid "Please define method %s() in the main plugin class you are creating."
+msgstr ""
+
+#: core/class.tabular.php:825
+msgid "No items found."
+msgstr ""
+
+#: core/inc/modals/custom-action.php:13 core/inc/modals/delete-bulk.php:15
+#: core/inc/modals/delete.php:12
+msgid "Close"
+msgstr ""
+
+#: core/inc/modals/delete-bulk.php:7 core/inc/modals/delete.php:7
+msgid "Confirmation"
+msgstr ""
+
+#: core/inc/modals/delete-bulk.php:8
+msgid ""
+"Do you really want to delete these selected records ? This process cannot be "
+"undone."
+msgstr ""
+
+#: core/inc/modals/delete-bulk.php:12
+msgid "Ok"
+msgstr ""
+
+#: core/inc/modals/delete-bulk.php:16 core/inc/modals/delete.php:13
+#: modules/prompt/views/manage.php:34
+msgid "Delete"
+msgstr ""
+
+#: core/inc/modals/delete.php:8
+msgid "Do you really want to delete this record? This process cannot be undone."
+msgstr ""
+
+#: modules/overview/model.overview.php:29
+msgid "How to Use"
+msgstr ""
+
+#: modules/overview/views/how.php:19
+msgid "Generate OpenAI API Key"
+msgstr ""
+
+#: modules/overview/views/how.php:24
+#, php-format
+msgid ""
+"To create a new OpenAI API Key, which is required for this plugin, navigate "
+"to the %1$s page. Once created, insert the key on the %2$s page."
+msgstr ""
+
+#: modules/overview/views/how.php:25 modules/settings/views/manage.php:17
+msgid "API Keys"
+msgstr ""
+
+#: modules/overview/views/how.php:26 modules/settings/model.settings.php:31
+msgid "Settings"
+msgstr ""
+
+#: modules/overview/views/how.php:34
+msgid "Add Text Prompt"
+msgstr ""
+
+#: modules/overview/views/how.php:39
+#, php-format
+msgid ""
+"Navigate to the %1$s page to create a new prompt. A text prompt specifies the "
+"task to be performed, and a well-defined prompt will result in better "
+"content. For guidance on crafting effective prompts, consult the %2$s."
+msgstr ""
+
+#: modules/overview/views/how.php:40 modules/prompt/views/manage.php:40
+msgid "Add Prompt"
+msgstr ""
+
+#: modules/overview/views/how.php:41 modules/prompt/views/form.php:55
+msgid "Prompts Guide"
+msgstr ""
+
+#: modules/overview/views/how.php:47
+msgid "Text Prompts Example"
+msgstr ""
+
+#: modules/overview/views/how.php:50
+msgid "Below are some good references to understand prompt design."
+msgstr ""
+
+#: modules/overview/views/how.php:57 modules/overview/views/how.php:66
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: modules/overview/views/how.php:58
+msgid "how to generate or manipulate text"
+msgstr ""
+
+#: modules/overview/views/how.php:67
+msgid "GPT-3 Parameters and Prompt Design"
+msgstr ""
+
+#: modules/overview/views/how.php:75
+msgid "Prompt Testing"
+msgstr ""
+
+#: modules/overview/views/how.php:80
+#, php-format
+msgid ""
+"Navigate to the %1$s page to evaluate the output of your prompts. You can "
+"also use the %2$s tool for further testing."
+msgstr ""
+
+#: modules/overview/views/how.php:81 modules/settings/model.settings.php:32
+msgid "Testing"
+msgstr ""
+
+#: modules/overview/views/how.php:82 modules/prompt/views/form.php:97
+msgid "OpenAI Playground"
+msgstr ""
+
+#: modules/overview/views/how.php:87
+msgid "How to Perform Task"
+msgstr ""
+
+#: modules/overview/views/how.php:89
+msgid ""
+"When editing a text block on the Gutenberg editor, this plugin will display a "
+"Text Prompts panel. Select the desired AI task and click the Submit button. A "
+"new paragraph block will be added to the selected block, displaying the "
+"output."
+msgstr ""
+
+#: modules/overview/views/how.php:92
+msgid "The Text Prompts Panel will be visible on following block types:"
+msgstr ""
+
+#: modules/overview/views/how.php:95
+msgid "Paragraph"
+msgstr ""
+
+#: modules/overview/views/how.php:96
+msgid "Heading"
+msgstr ""
+
+#: modules/overview/views/how.php:97
+msgid "Quote"
+msgstr ""
+
+#: modules/overview/views/how.php:98
+msgid "Preformatted"
+msgstr ""
+
+#: modules/overview/views/how.php:99
+msgid "Pullquote"
+msgstr ""
+
+#: modules/overview/views/how.php:100
+msgid "Verse"
+msgstr ""
+
+#: modules/overview/views/how.php:105
+msgid "Shortcode"
+msgstr ""
+
+#: modules/overview/views/how.php:112
+msgid "Shortcode Attributes:"
+msgstr ""
+
+#: modules/overview/views/how.php:115
+msgid ""
+"model: (optional) Specifies the name or ID of the GPT model to use for text "
+"generation. If no model is specified, the default model will be used."
+msgstr ""
+
+#: modules/overview/views/how.php:116
+msgid ""
+"temperature: (optional) Controls the \"creativity\" of the generated text, "
+"with higher values producing more diverse and unpredictable responses. "
+"Default value is 0.7."
+msgstr ""
+
+#: modules/overview/views/how.php:117
+msgid ""
+"max_tokens: (optional) Limits the maximum number of tokens (words) in the "
+"generated text. Default value is 2048."
+msgstr ""
+
+#: modules/overview/views/how.php:118
+msgid ""
+"transist: (optional) Specifies whether to use transist models for generation. "
+"Default value is 86400 seconds."
+msgstr ""
+
+#: modules/overview/views/how.php:119
+msgid ""
+"attributes: (optional) additional HTML attributes to add to the output "
+"<code>&lt;div&gt;</code> element that contains the generated text. This can "
+"be used for styling or other purposes."
+msgstr ""
+
+#: modules/overview/views/how.php:131
+#, php-format
+msgid ""
+"If you encounter any issues, please feel free to create a %s and our team "
+"will assist you as soon as possible."
+msgstr ""
+
+#: modules/overview/views/how.php:132
+msgid "Support Ticket"
+msgstr ""
+
+#: modules/prompt/model.prompt.php:34
+msgid "Title is required"
+msgstr ""
+
+#: modules/prompt/model.prompt.php:34
+msgid "Title: Use only alphabets and numbers."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:35
+msgid "Text Prompt is required."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:36
+msgid "Words: Enter number only."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:37
+msgid "Temperature: Enter number only between 0 to 1."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:38
+msgid "Top P: Enter number only between 0 to 1."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:39
+msgid "Frequency Penalty: Enter number only between 0 to 1."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:40
+msgid "Presence Penalty: Enter number only between 0 to 1."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:52
+msgid "New Prompt"
+msgstr ""
+
+#: modules/prompt/model.prompt.php:53 modules/prompt/views/manage.php:39
+msgid "Manage Prompts"
+msgstr ""
+
+#: modules/prompt/model.prompt.php:54 modules/prompt/views/import.php:192
+msgid "Import Prompts"
+msgstr ""
+
+#: modules/prompt/model.prompt.php:144
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:146 modules/prompt/views/manage.php:43
+msgid "Prompt was updated successfully."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:148 modules/prompt/views/manage.php:42
+msgid "Prompt was added successfully."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:182
+msgid "Copy"
+msgstr ""
+
+#: modules/prompt/model.prompt.php:198
+msgid "Please select prompts to export."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:266
+msgid "Please select file to be imported."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:268
+msgid "Please upload a valid csv file."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:312
+msgid "Something went wrong. Please start import process again."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:340
+msgid "Please map prompts fields to csv columns."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:353
+msgid "Duplicate mapping is not allowed. Please check these fields : "
+msgstr ""
+
+#: modules/prompt/model.prompt.php:361
+msgid "Title & Prompt fields are required."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:427
+msgid "records imported successfully."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:433
+msgid "No records found in the csv file."
+msgstr ""
+
+#: modules/prompt/model.prompt.php:436
+msgid "Please assign fields to the csv columns."
+msgstr ""
+
+#: modules/prompt/views/form.php:31 modules/prompt/views/import.php:122
+#: modules/prompt/views/manage.php:24
+msgid "Prompt"
+msgstr ""
+
+#: modules/prompt/views/form.php:36
+msgid "Prompt Settings"
+msgstr ""
+
+#: modules/prompt/views/form.php:46
+msgid " Title"
+msgstr ""
+
+#: modules/prompt/views/form.php:49
+msgid "Menu title to access prompt. This will be used to access the prompt."
+msgstr ""
+
+#: modules/prompt/views/form.php:55
+#, php-format
+msgid ""
+"Write your text prompt here. The model will generate a text completion to "
+"match whatever context or pattern you write here. %s"
+msgstr ""
+
+#: modules/prompt/views/form.php:62
+msgid "Text Prompt"
+msgstr ""
+
+#: modules/prompt/views/form.php:77
+msgid " Words"
+msgstr ""
+
+#: modules/prompt/views/form.php:80
+msgid "Write here how many words to be generated. max 2000 words."
+msgstr ""
+
+#: modules/prompt/views/form.php:90
+msgid "Advanced Settings"
+msgstr ""
+
+#: modules/prompt/views/form.php:97
+#, php-format
+msgid ""
+"Read %1$s to setup below settings to get better result. Use %2$s tool to try "
+"with these settings. You may leave these settings unchanged as we used the "
+"best default settings."
+msgstr ""
+
+#: modules/prompt/views/form.php:97
+msgid "Parameters Guide"
+msgstr ""
+
+#: modules/prompt/views/form.php:124
+#, php-format
+msgid ""
+"Read %s to find which model is best suitable for your text prompt. Default is "
+"text-davinci-003."
+msgstr ""
+
+#: modules/prompt/views/form.php:124 modules/settings/views/test.php:69
+msgid "Models Overview"
+msgstr ""
+
+#: modules/prompt/views/form.php:130
+msgid "Choose Model/Engine"
+msgstr ""
+
+#: modules/prompt/views/form.php:144
+msgid " Temperature"
+msgstr ""
+
+#: modules/prompt/views/form.php:147
+msgid ""
+"A number between 0 and 1. This controls the randomness and creativity of the "
+"model’s predictions."
+msgstr ""
+
+#: modules/prompt/views/form.php:157
+msgid " Top p"
+msgstr ""
+
+#: modules/prompt/views/form.php:160
+msgid ""
+"A number between 0 and 1. This controls the randomness and originality of the "
+"model."
+msgstr ""
+
+#: modules/prompt/views/form.php:170
+msgid " Frequency penalty"
+msgstr ""
+
+#: modules/prompt/views/form.php:173
+msgid ""
+"A number between 0 and 1. This controls the model’s tendency to repeat "
+"predictions."
+msgstr ""
+
+#: modules/prompt/views/form.php:183
+msgid " Presence penalty"
+msgstr ""
+
+#: modules/prompt/views/form.php:186
+msgid ""
+" A number between 0 to 1. The presence penalty parameter encourages the model "
+"to make novel predictions."
+msgstr ""
+
+#: modules/prompt/views/form.php:198
+msgid "Save"
+msgstr ""
+
+#: modules/prompt/views/import.php:18 modules/prompt/views/import.php:23
+msgid "Step 1 - Upload CSV"
+msgstr ""
+
+#: modules/prompt/views/import.php:30 modules/prompt/views/import.php:35
+msgid "Step 2 - Columns Mapping"
+msgstr ""
+
+#: modules/prompt/views/import.php:51
+msgid "Choose File"
+msgstr ""
+
+#: modules/prompt/views/import.php:52
+msgid "Choose a File"
+msgstr ""
+
+#: modules/prompt/views/import.php:54
+msgid ""
+"Please upload a valid CSV file containing prompts. You can also download a "
+"sample CSV file using the link provided, fill in your own data, and then "
+"upload it here."
+msgstr ""
+
+#: modules/prompt/views/import.php:64
+msgid "Download Sample CSV"
+msgstr ""
+
+#: modules/prompt/views/import.php:66
+msgid "Download pre-built prompts."
+msgstr ""
+
+#: modules/prompt/views/import.php:67
+msgid ""
+"Click here to download a CSV file containing pre-built prompts. Keep the file "
+"structure unchanged, enter your own data, and then upload it using the file "
+"upload control above."
+msgstr ""
+
+#: modules/prompt/views/import.php:75
+msgid "Continue"
+msgstr ""
+
+#: modules/prompt/views/import.php:120
+msgid "Select Field"
+msgstr ""
+
+#: modules/prompt/views/import.php:121 modules/prompt/views/manage.php:15
+msgid "Title"
+msgstr ""
+
+#: modules/prompt/views/import.php:123 modules/prompt/views/manage.php:16
+msgid "Words"
+msgstr ""
+
+#: modules/prompt/views/import.php:124
+msgid "Model/Engine"
+msgstr ""
+
+#: modules/prompt/views/import.php:125 modules/prompt/views/manage.php:18
+msgid "Temperature"
+msgstr ""
+
+#: modules/prompt/views/import.php:126
+msgid "Top P"
+msgstr ""
+
+#: modules/prompt/views/import.php:127
+msgid "Frequency Penalty"
+msgstr ""
+
+#: modules/prompt/views/import.php:128
+msgid "Presence Penalty"
+msgstr ""
+
+#: modules/prompt/views/import.php:137
+msgid ""
+"records are ready to upload. Please map csv columns below and click on Import "
+"button."
+msgstr ""
+
+#: modules/prompt/views/import.php:201
+msgid "Cancel"
+msgstr ""
+
+#: modules/prompt/views/manage.php:17
+msgid "Model"
+msgstr ""
+
+#: modules/prompt/views/manage.php:25
+msgid "Prompts"
+msgstr ""
+
+#: modules/prompt/views/manage.php:35
+msgid "Export CSV"
+msgstr ""
+
+#: modules/prompt/views/manage.php:41
+msgid "Prompt was deleted successfully."
+msgstr ""
+
+#: modules/prompt/views/manage.php:44
+msgid "Search"
+msgstr ""
+
+#: modules/settings/model.settings.php:64
+msgid "Plugin settings were saved successfully."
+msgstr ""
+
+#: modules/settings/views/manage.php:6 modules/settings/views/manage.php:11
+msgid "OpenAI Settings"
+msgstr ""
+
+#: modules/settings/views/manage.php:17
+#, php-format
+msgid ""
+"Authentication for the OpenAI API is done using API keys. To obtain an API "
+"key, visit the %s page."
+msgstr ""
+
+#: modules/settings/views/manage.php:23
+msgid " Enter OpenAI API Key"
+msgstr ""
+
+#: modules/settings/views/manage.php:27
+msgid "Enter OpenAI API Key"
+msgstr ""
+
+#: modules/settings/views/manage.php:38
+msgid "Save Setting"
+msgstr ""
+
+#: modules/settings/views/test.php:17 modules/settings/views/test.php:23
+msgid "OpenAI Testing"
+msgstr ""
+
+#: modules/settings/views/test.php:29
+msgid ""
+"After setting up your OpenAI API key and prompts, you can test the prompt "
+"output here."
+msgstr ""
+
+#: modules/settings/views/test.php:69
+#, php-format
+msgid "Read %s to find which model is best suitable for your text prompt."
+msgstr ""
+
+#: modules/settings/views/test.php:75
+msgid "Choose Model"
+msgstr ""
+
+#: modules/settings/views/test.php:90
+msgid "The selected prompt will be used to perform task."
+msgstr ""
+
+#: modules/settings/views/test.php:103
+msgid " Enter Text"
+msgstr ""
+
+#: modules/settings/views/test.php:104
+msgid "How to Write Quality Contents"
+msgstr ""
+
+#: modules/settings/views/test.php:105
+msgid "Enter few words to try selected prompt."
+msgstr ""
+
+#: modules/settings/views/test.php:113
+msgid "This text will be replaced with OpenAI output."
+msgstr ""
+
+#: modules/settings/views/test.php:130
+msgid "Try Now"
+msgstr ""
+
+#: text-prompter.php:190
+msgid ""
+"Something went wrong with the requested action. Please refresh page and try "
+"again."
+msgstr ""
+
+#: text-prompter.php:424
+msgid "Are you sure to delete item?"
+msgstr ""
+
+#: text-prompter.php:428
+msgid "Are you sure to cancel import process?"
+msgstr ""
+
+#: text-prompter.php:440
+msgid "Hide"
+msgstr ""
